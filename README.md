@@ -1,2 +1,2 @@
 # tailwindproj
-Tailwind Learning anf Creating screens 
+Tailwind Learning and Creating screens 
